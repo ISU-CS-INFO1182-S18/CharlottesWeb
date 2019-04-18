@@ -14,6 +14,8 @@
         <asp:Button ID="btnDoSomething" runat="server" Text="Click Me" OnClick="btnDoSomething_Click" />
         
         <asp:label ID="lblOutput" runat="server" text="Label">has some Text</asp:label>
+        <a href="Other.aspx">Other Page</a>
+        <a href="Other.aspx">Other.aspx</a><a href="Default.aspx">Default.aspx</a>
     </form>
 </body>
 </html>
